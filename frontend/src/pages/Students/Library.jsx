@@ -1,5 +1,5 @@
 // LibrarySection.js
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import Sidebar from './Sidebar';
 import axios from 'axios';
 import {

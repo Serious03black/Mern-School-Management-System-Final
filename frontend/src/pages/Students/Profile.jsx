@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // ProfileSection.js
 import React from 'react';
 import Sidebar from './Sidebar';

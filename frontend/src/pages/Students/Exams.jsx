@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import  { useRef } from 'react';
 import Sidebar from './Sidebar';
 import { Bar } from 'react-chartjs-2'; 
 import {

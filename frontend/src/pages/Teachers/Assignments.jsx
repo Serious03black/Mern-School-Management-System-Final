@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // AssignmentSection.js
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';

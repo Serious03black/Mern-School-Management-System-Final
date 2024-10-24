@@ -1,5 +1,6 @@
+/* eslint-disable react/jsx-no-undef */
 // PerformanceSection.js
-import React from 'react';
+// import React from 'react';
 import Sidebar from './Sidebar';
 // import { Line } from 'react-chartjs-2';
 import {

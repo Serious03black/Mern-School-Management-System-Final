@@ -1,4 +1,6 @@
+/* eslint-disable no-unused-vars */
 // CheckAnnouncementSection.js
+// eslint-disable-next-line no-unused-vars
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Sidebar from './Sidebar';

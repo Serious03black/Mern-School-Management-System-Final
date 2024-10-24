@@ -1,5 +1,5 @@
 // AttendanceSection.js
-import React from 'react';
+// import React from 'react';
 import Sidebar from './Sidebar';
 import { AttendanceContainer, SidebarContainer, Content, AttendanceHeader, AttendanceList, AttendanceItem, 
   AttendanceDate, AttendanceStatus } 
